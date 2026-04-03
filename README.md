@@ -37,4 +37,4 @@ My background spans hospital-based data science, digital health analytics, and a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-### &nbsp; ![](https://komarev.com/ghpvc/?username=JaberQezelbash&style=flat-square&color=0088cc)
+&nbsp; ![](https://komarev.com/ghpvc/?username=JaberQezelbash&style=flat-square&color=0088cc)
