@@ -20,8 +20,6 @@ My background spans **hospital-based data science, digital health analytics, and
 - &nbsp; I work with **Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI**.
 - &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
 - &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
-- &nbsp; Most of my projects are available on [GitHub](https://github.com/JaberQezelbash).
-- &nbsp; My publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate) and on my [website](https://jaberqezelbash.github.io/).
 - &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
 - &nbsp; Reach me at **[jaber.qezelbash@gmail.com](mailto:jaber.qezelbash@gmail.com)**.
 
