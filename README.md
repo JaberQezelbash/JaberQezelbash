@@ -26,7 +26,6 @@ I recently earned my Ph.D. in Industrial & Systems Engineering (with the focus o
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
 &nbsp; ![](https://komarev.com/ghpvc/?username=JaberQezelbash&style=flat-square&color=0088cc)
