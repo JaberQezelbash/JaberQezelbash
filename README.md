@@ -15,8 +15,6 @@ I earned my Ph.D. in *Industrial & Systems Engineering* from the *University of 
 - &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows.
 
 
-### Languages and Tools:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
