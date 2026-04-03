@@ -1,4 +1,4 @@
-## I'm Jaber Qezelbash-Chamak
+## Jaber Qezelbash-Chamak
 
 ### Healthcare Data Scientist • ML/AI Engineer • Health Informatics
 
