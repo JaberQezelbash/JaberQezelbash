@@ -51,15 +51,6 @@ My background spans **hospital-based data science, digital health analytics, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Research Interests:
-
-- Healthcare AI and Health Informatics
-- Large Language Models in Medicine
-- Predictive Modeling and Clinical Decision Support
-- Medical Image Analysis
-- Physiologic Signal Processing
-- Reproducible Machine Learning Workflows
-
 ### Projects and Dev Stuffs:
 
 <details>
