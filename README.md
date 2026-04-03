@@ -15,20 +15,12 @@ My work sits at the intersection of **machine learning, deep learning, large lan
 
 My background spans **hospital-based data science, digital health analytics, and academic ML research**, and I care about transforming complex healthcare data into rigorous, practical, and decision-ready insights.
 
-### Talking about Personal Stuffs:
-
 - &nbsp; I work with **Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI**.
 - &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
 - &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
 - &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
 - &nbsp; Reach me at **[jaber.qezelbash@gmail.com](mailto:jaber.qezelbash@gmail.com)**.
 
-### My Absolute Favorites:
-
-- &nbsp; Applying AI/ML to meaningful healthcare problems.
-- &nbsp; Turning complex clinical and operational data into actionable insights.
-- &nbsp; Publishing research and building reproducible ML workflows.
-- &nbsp; Exploring LLMs, deep learning, and emerging AI methods for health applications.
 
 ### Languages and Tools:
 
