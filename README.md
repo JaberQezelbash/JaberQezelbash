@@ -7,7 +7,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaber.qezelbash@gmail.com)
 
-I recently earned my Ph.D. in *Industrial & Systems Engineering* from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
+I recently earned my Ph.D. in **Industrial & Systems Engineering** from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
 
 - &nbsp; I work with Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI.
 - &nbsp; I’m currently focused on large language models (fine-tuning and AgenticAI) and their applications in health informatics.
