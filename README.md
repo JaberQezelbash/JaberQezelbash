@@ -1,6 +1,6 @@
 ## Jaber Qezelbash-Chamak
 
-### Healthcare Data Scientist • ML/AI Engineer • Health Informatics
+### Data Scientist • ML/AI Engineer • Health Informatics
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaberqc)
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/)
@@ -8,8 +8,6 @@
 [![Email Badge](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaber.qezelbash@gmail.com)
 
 I earned my Ph.D. in *Industrial & Systems Engineering* from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
-
-My background spans hospital-based data science, digital health analytics, and academic ML research, and I care about transforming complex healthcare data into rigorous, practical, and decision-ready insights.
 
 - &nbsp; I work with Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI.
 - &nbsp; I’m currently focused on large language models and their applications in health informatics.
