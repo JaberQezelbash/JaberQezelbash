@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 
-I recently earned my Ph.D. in Industrial & Systems Engineering (with a dedicated focus of Machine Learning) from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
+I recently earned my Ph.D. in Industrial & Systems Engineering (with the focus of Machine Learning) from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
 
 - &nbsp; Large language models (fine-tuning and AgenticAI) and their applications in health informatics.
 - &nbsp; My experience includes EHR analytics, predictive modeling, medical imaging, telehealth analytics, and signal processing.
