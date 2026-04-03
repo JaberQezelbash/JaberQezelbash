@@ -11,7 +11,7 @@
 
 I’m a **Healthcare Data Scientist** and **ML/AI Engineer** with a **Ph.D. in Industrial & Systems Engineering** from the **University of Florida**.
 
-My work sits at the intersection of **machine learning, deep learning, large language models, and health informatics**. I enjoy building end-to-end solutions across **healthcare analytics** and **predictive modeling**.
+My work sits at the intersection of **machine learning, deep learning, large language models / Agentic AI / GenAI, and health informatics**. I enjoy building end-to-end solutions across **healthcare analytics** and **predictive modeling**.
 
 My background spans **hospital-based data science, digital health analytics, and academic ML research**, and I care about transforming complex healthcare data into rigorous, practical, and decision-ready insights.
 
