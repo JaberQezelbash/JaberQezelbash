@@ -9,8 +9,8 @@
 
 I recently earned my Ph.D. in Industrial & Systems Engineering (with a dedicated focus of Machine Learning) from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
 
-- &nbsp; I work with Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI.
-- &nbsp; I’m currently focused on large language models (fine-tuning and AgenticAI) and their applications in health informatics.
+- &nbsp; Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI.
+- &nbsp; Large language models (fine-tuning and AgenticAI) and their applications in health informatics.
 - &nbsp; My experience includes EHR analytics, predictive modeling, medical imaging, telehealth analytics, and signal processing.
 - &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows.
 
