@@ -17,7 +17,7 @@ My background spans **hospital-based data science, digital health analytics, and
 
 - &nbsp; I work with **Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI**.
 - &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
-- &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
+- &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and signal processing**.
 - &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
 
 
