@@ -19,7 +19,6 @@ My background spans **hospital-based data science, digital health analytics, and
 - &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
 - &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
 - &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
-- &nbsp; Reach me at **[jaber.qezelbash@gmail.com](mailto:jaber.qezelbash@gmail.com)**.
 
 
 ### Languages and Tools:
