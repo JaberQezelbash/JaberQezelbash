@@ -11,27 +11,26 @@
 
 I’m a **Healthcare Data Scientist** and **ML/AI Engineer** with a **Ph.D. in Industrial & Systems Engineering** from the **University of Florida**.
 
-My work sits at the intersection of **machine learning, deep learning, large language models, and health informatics**. I enjoy building end-to-end solutions across **healthcare analytics, predictive modeling, medical image analysis, and physiologic time-series modeling**.
+My work sits at the intersection of **machine learning, deep learning, large language models, and health informatics**. I enjoy building end-to-end solutions across **healthcare analytics, predictive modeling, medical image analysis, and time-series modeling**.
 
 My background spans **hospital-based data science, digital health analytics, and academic ML research**, and I care about transforming complex healthcare data into rigorous, practical, and decision-ready insights.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I work with **Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI**.
-- 🔬 &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
-- 🏥 &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
-- 📍 &nbsp; Based in **Tampa, FL, USA**.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/JaberQezelbash).
-- 📚 &nbsp; My publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate) and on my [website](https://jaberqezelbash.github.io/).
-- 💬 &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
-- 📫 &nbsp; Reach me at **[jaber.qezelbash@gmail.com](mailto:jaber.qezelbash@gmail.com)**.
+- &nbsp; I work with **Python, SQL, R, MATLAB, C++, Spark, Hive, Azure, AWS, Databricks, and Power BI**.
+- &nbsp; I’m currently focused on **large language models and their applications in health informatics**.
+- &nbsp; My experience includes **EHR analytics, predictive modeling, medical imaging, telehealth analytics, and physiologic signal processing**.
+- &nbsp; Most of my projects are available on [GitHub](https://github.com/JaberQezelbash).
+- &nbsp; My publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate) and on my [website](https://jaberqezelbash.github.io/).
+- &nbsp; Ask me about **healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows**.
+- &nbsp; Reach me at **[jaber.qezelbash@gmail.com](mailto:jaber.qezelbash@gmail.com)**.
 
 ### My Absolute Favorites:
 
-- 🧠 &nbsp; Applying AI/ML to meaningful healthcare problems.
-- 📊 &nbsp; Turning complex clinical and operational data into actionable insights.
-- 📝 &nbsp; Publishing research and building reproducible ML workflows.
-- 🚀 &nbsp; Exploring LLMs, deep learning, and emerging AI methods for health applications.
+- &nbsp; Applying AI/ML to meaningful healthcare problems.
+- &nbsp; Turning complex clinical and operational data into actionable insights.
+- &nbsp; Publishing research and building reproducible ML workflows.
+- &nbsp; Exploring LLMs, deep learning, and emerging AI methods for health applications.
 
 ### Languages and Tools:
 
