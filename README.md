@@ -8,7 +8,7 @@ I recently earned my Ph.D. in Industrial & Systems Engineering (with the focus o
 
 - &nbsp; MLOps and LLMOps.
 - &nbsp; LLMs (fine-tuning and AgenticAI) and their applications in health informatics.
-- &nbsp; Hand-on experience in predictive modeling, EHR analytics, health data mining, telehealth analytics, and signal processing.
+- &nbsp; Hand-on experience in predictive modeling, EHR analytics, health data mining, medical imaging, and telehealth analytics.
 - &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows.
 
 
