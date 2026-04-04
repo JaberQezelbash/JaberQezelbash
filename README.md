@@ -1,6 +1,5 @@
 ## Data Scientist • ML/AI Engineer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaberqc)
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 
