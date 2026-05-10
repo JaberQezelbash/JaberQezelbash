@@ -7,7 +7,7 @@
 I recently earned my Ph.D. in Industrial & Systems Engineering (Machine Learning) from the *University of Florida*. My work sits at the intersection of machine learning / deep learning / large language models / Agentic AI / GenAI, and health informatics. I enjoy building end-to-end solutions across healthcare analytics and predictive modeling.
 
 - &nbsp; MLOps and LLMOps.
-- &nbsp; LLMs (fine-tuning and AgenticAI) and their applications in health informatics.
+- &nbsp; LLMs (RAG-based fine-tuning and AgenticAI) and their applications in health informatics.
 - &nbsp; Hand-on experience in predictive modeling, EHR analytics, health data mining, medical imaging, and telehealth analytics.
 - &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, medical ML, or clinical data workflows.
 
