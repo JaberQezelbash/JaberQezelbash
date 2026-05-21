@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/JaberChamak/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 
-I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows.
+I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI/AWS model deployment, and safe clinical AI workflows.
 
 ### Featured AI Projects
 - &nbsp; **Clinical Patient-Triage AI Agent Backend**  
