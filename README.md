@@ -37,7 +37,6 @@ I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on M
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
@@ -55,13 +54,11 @@ I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on M
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
 ![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
 ![MLOps](https://img.shields.io/badge/MLOps-2F4F4F?style=flat-square)
 ![LLMOps](https://img.shields.io/badge/LLMOps-483D8B?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
