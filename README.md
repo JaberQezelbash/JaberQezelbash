@@ -6,7 +6,7 @@
 
 I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI/AWS model deployment, and safe clinical AI workflows.
 
-### Featured AI Projects
+### Selected AI Projects
 - &nbsp; **Clinical Patient-Triage AI Agent Backend**  
   Built and deployed a clinical patient-triage AI agent backend using LangGraph orchestration for multi-agent workflow routing, Azure AI/Azure OpenAI model deployment, FastAPI, and Azure App Service. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-LangGraph%20AzureAI%20Agents-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)
