@@ -7,16 +7,13 @@
 I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of **machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics**. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on **LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows**.
 
 ### Current Focus
-
 - &nbsp; Building **agentic AI systems** for healthcare using LangGraph, Azure AI, Azure OpenAI, FastAPI, and cloud deployment workflows.
 - &nbsp; Developing **RAG-based GenAI applications** with embedding models, vector search, reranking, instruction-tuned LLMs, and retrieve–rerank–generate architectures.
-- &nbsp; Fine-tuning and post-training LLMs using **LoRA/QLoRA**, Hugging Face Transformers, PEFT, Accelerate, and PyTorch.
+- &nbsp; Fine-tuning and post-training LLMs using LoRA/QLoRA, Hugging Face Transformers, PEFT, Accelerate, and PyTorch.
 - &nbsp; Designing practical **MLOps and LLMOps** pipelines for scalable, production-ready AI systems.
 - &nbsp; Applying machine learning to **EHR analytics, health data mining, medical imaging, telehealth analytics, and clinical prediction**.
-- &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, RAG, agentic workflows, medical ML, or clinical data pipelines.
-
+- 
 ### Featured AI Projects
-
 - &nbsp; **Clinical Patient-Triage AI Agent Backend**  
   Built and deployed a clinical patient-triage AI agent backend using **LangGraph orchestration** for multi-agent workflow routing, **Azure AI / Azure OpenAI** model deployment, **FastAPI**, and **Azure App Service**. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-LangGraph%20AzureAI%20Agents-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)
@@ -54,10 +51,7 @@ I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on M
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
-![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-2F4F4F?style=flat-square)
 ![LLMOps](https://img.shields.io/badge/LLMOps-483D8B?style=flat-square)
