@@ -7,15 +7,15 @@
 I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI/AWS model deployment, and safe clinical AI workflows.
 
 ### Selected AI Projects
-- &nbsp; **Clinical Patient-Triage AI Agent Backend**  
+- &nbsp; **Patient-Triage AI Agent Backend**  
   Built and deployed a clinical patient-triage AI agent backend using LangGraph orchestration for multi-agent workflow routing, Azure AI/Azure OpenAI model deployment, FastAPI, and Azure App Service. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-LangGraph%20AzureAI%20Agents-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)
 
-- &nbsp; **RAG-Based GenAI Chatbot for Healthcare / IT Support**  
+- &nbsp; **RAG-Based GenAI Chatbot for Healthcare/IT Support**  
   Built an end-to-end RAG-based GenAI chatbot integrating BGE-M3 embeddings, FAISS retrieval, BGE reranking, Llama-3.1-8B-Instruct, and LoRA/QLoRA fine-tuning in a retrieve–rerank–generate workflow.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-RAG%20FineTune%20Llama--3.1--8B-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/RAG-finetune-Llama-3.1-8B-Instruct)
 
-- &nbsp; **Healthcare LLM Fine-Tuning with Qwen2.5**  
+- &nbsp; **LLM Fine-Tuning with Qwen2.5**  
   Improved LLM reasoning and response quality on healthcare question-answering tasks through post-training of Qwen2.5-1.5B-Instruct using parameter-efficient LoRA fine-tuning with Python, PyTorch, Hugging Face Transformers, PEFT, and Accelerate.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-FineTune%20Qwen2.5--1.5B-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)
 
