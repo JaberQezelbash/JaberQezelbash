@@ -4,26 +4,26 @@
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/JaberChamak/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 
-I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of **machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics**. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on **LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows**.
+I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows.
 
 ### Current Focus
-- &nbsp; Building **agentic AI systems** for healthcare using LangGraph, Azure AI, Azure OpenAI, FastAPI, and cloud deployment workflows.
-- &nbsp; Developing **RAG-based GenAI applications** with embedding models, vector search, reranking, instruction-tuned LLMs, and retrieve–rerank–generate architectures.
+- &nbsp; Building agentic AI systems for healthcare using LangGraph, Azure AI, Azure OpenAI, FastAPI, and cloud deployment workflows.
+- &nbsp; Developing RAG-based GenAI applications with embedding models, vector search, reranking, instruction-tuned LLMs, and retrieve–rerank–generate architectures.
 - &nbsp; Fine-tuning and post-training LLMs using LoRA/QLoRA, Hugging Face Transformers, PEFT, Accelerate, and PyTorch.
-- &nbsp; Designing practical **MLOps and LLMOps** pipelines for scalable, production-ready AI systems.
-- &nbsp; Applying machine learning to **EHR analytics, health data mining, medical imaging, telehealth analytics, and clinical prediction**.
+- &nbsp; Designing practical MLOps and LLMOps pipelines for scalable, production-ready AI systems.
+- &nbsp; Applying machine learning to EHR analytics, health data mining, medical imaging, telehealth analytics, and clinical prediction.
 
 ### Featured AI Projects
 - &nbsp; **Clinical Patient-Triage AI Agent Backend**  
-  Built and deployed a clinical patient-triage AI agent backend using **LangGraph orchestration** for multi-agent workflow routing, **Azure AI / Azure OpenAI** model deployment, **FastAPI**, and **Azure App Service**. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
+  Built and deployed a clinical patient-triage AI agent backend using LangGraph orchestration for multi-agent workflow routing, Azure AI/Azure OpenAI model deployment, FastAPI, and Azure App Service. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-LangGraph%20AzureAI%20Agents-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)
 
 - &nbsp; **RAG-Based GenAI Chatbot for Healthcare / IT Support**  
-  Built an end-to-end RAG-based GenAI chatbot integrating **BGE-M3 embeddings**, **FAISS retrieval**, **BGE reranking**, **Llama-3.1-8B-Instruct**, and **LoRA/QLoRA fine-tuning** in a retrieve–rerank–generate workflow.  
+  Built an end-to-end RAG-based GenAI chatbot integrating BGE-M3 embeddings, FAISS retrieval, BGE reranking, Llama-3.1-8B-Instruct, and LoRA/QLoRA fine-tuning in a retrieve–rerank–generate workflow.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-RAG%20FineTune%20Llama--3.1--8B-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/RAG-finetune-Llama-3.1-8B-Instruct)
 
 - &nbsp; **Healthcare LLM Fine-Tuning with Qwen2.5**  
-  Improved LLM reasoning and response quality on healthcare question-answering tasks through post-training of **Qwen2.5-1.5B-Instruct** using parameter-efficient **LoRA fine-tuning** with Python, PyTorch, Hugging Face Transformers, PEFT, and Accelerate.  
+  Improved LLM reasoning and response quality on healthcare question-answering tasks through post-training of Qwen2.5-1.5B-Instruct using parameter-efficient LoRA fine-tuning with Python, PyTorch, Hugging Face Transformers, PEFT, and Accelerate.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-FineTune%20Qwen2.5--1.5B-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)
 
 
