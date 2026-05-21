@@ -12,7 +12,7 @@ I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on M
 - &nbsp; Fine-tuning and post-training LLMs using LoRA/QLoRA, Hugging Face Transformers, PEFT, Accelerate, and PyTorch.
 - &nbsp; Designing practical **MLOps and LLMOps** pipelines for scalable, production-ready AI systems.
 - &nbsp; Applying machine learning to **EHR analytics, health data mining, medical imaging, telehealth analytics, and clinical prediction**.
-- 
+
 ### Featured AI Projects
 - &nbsp; **Clinical Patient-Triage AI Agent Backend**  
   Built and deployed a clinical patient-triage AI agent backend using **LangGraph orchestration** for multi-agent workflow routing, **Azure AI / Azure OpenAI** model deployment, **FastAPI**, and **Azure App Service**. Integrated safety checks, EHR tools, and live API endpoints for structured triage responses.  
