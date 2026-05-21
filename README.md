@@ -1,4 +1,4 @@
-## Data Scientist • ML/AI Engineer • Healthcare AI Researcher
+## Data Scientist • ML/AI Engineer/Scientist
 
 
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/JaberChamak/)
