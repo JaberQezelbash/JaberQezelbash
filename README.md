@@ -3,8 +3,6 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/JaberChamak/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash)
-
 
 I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of **machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics**.
 
