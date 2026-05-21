@@ -4,10 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-1F4E79?style=flat-square&logo=google-chrome&logoColor=white)](https://jaberqezelbash.github.io/JaberChamak/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ&view_op=list_works&sortby=pubdate)
 
-I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of **machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics**.
-
-I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on **LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows**.
-
+I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on Machine Learning from the *University of Florida*. My work sits at the intersection of **machine learning, deep learning, large language models, agentic AI, GenAI, and health informatics**. I build end-to-end AI systems for healthcare analytics, clinical decision support, EHR-based predictive modeling, medical data mining, and LLM-powered applications. My recent work focuses on **LLM fine-tuning, RAG pipelines, LangGraph-based AI agents, Azure AI deployment, and safe clinical AI workflows**.
 
 ### Current Focus
 
@@ -17,7 +14,6 @@ I build end-to-end AI systems for healthcare analytics, clinical decision suppor
 - &nbsp; Designing practical **MLOps and LLMOps** pipelines for scalable, production-ready AI systems.
 - &nbsp; Applying machine learning to **EHR analytics, health data mining, medical imaging, telehealth analytics, and clinical prediction**.
 - &nbsp; Ask me about healthcare AI, predictive modeling, LLM fine-tuning, RAG, agentic workflows, medical ML, or clinical data pipelines.
-
 
 ### Featured AI Projects
 
@@ -44,10 +40,6 @@ I build end-to-end AI systems for healthcare analytics, clinical decision suppor
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat-square)
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-008080?style=flat-square)
-![EHR Analytics](https://img.shields.io/badge/EHR%20Analytics-006400?style=flat-square)
-![Medical ML](https://img.shields.io/badge/Medical%20ML-8B0000?style=flat-square)
-
 ![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
 ![GenAI](https://img.shields.io/badge/GenAI-7C3AED?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0F766E?style=flat-square)
@@ -55,12 +47,10 @@ I build end-to-end AI systems for healthcare analytics, clinical decision suppor
 ![Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-LoRA%20%7C%20QLoRA-FF6F00?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-0F172A?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=flat-square&logo=huggingface&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-Parameter--Efficient%20Training-FFB000?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-005571?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
