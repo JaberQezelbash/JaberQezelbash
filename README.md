@@ -12,7 +12,7 @@ I recently earned my Ph.D. in Industrial & Systems Engineering with a focus on M
   [![GitHub Repo](https://img.shields.io/badge/GitHub-LangGraph%20AzureAI%20Agents-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)
 
 - &nbsp; **RAG-Based GenAI Chatbot for Healthcare/IT Support**  
-  Built an end-to-end RAG-based GenAI chatbot integrating BGE-M3 embeddings, FAISS retrieval, BGE reranking, Llama-3.1-8B-Instruct, and LoRA/QLoRA fine-tuning in a retrieve–rerank–generate workflow.  
+  Built an end-to-end RAG-based GenAI chatbot integrating BGE-M3 embeddings, FAISS retrieval, BGE reranking, Llama-3.1-8B-Instruct, and LoRA fine-tuning in a retrieve–rerank–generate workflow.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-RAG%20FineTune%20Llama--3.1--8B-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaberQezelbash/RAG-finetune-Llama-3.1-8B-Instruct)
 
 - &nbsp; **LLM Fine-Tuning with Qwen2.5**  
